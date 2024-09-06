@@ -1,0 +1,36 @@
+.calculator {
+    width: 340px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #3b2a6d;
+  }
+  
+  input {
+    color: black;
+    width: 82%;
+    margin-bottom: 10px;
+    padding: 20px;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .buttons {
+    justify-content: center;
+  }
+  
+  .buttons button {
+    align-items: center;
+    width: 20%;
+    padding: 10px;
+    font-size: 20px;
+    margin: 5px;
+    border-radius: 20%;
+  }
+  
+  .buttons button:hover {
+    background-color: rgba(47, 38, 38, 0.525);
+    color: rgb(112, 200, 203);
+  }
+  
