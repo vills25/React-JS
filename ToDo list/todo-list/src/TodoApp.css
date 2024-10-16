@@ -37,6 +37,7 @@
     padding: 4.9rem;
     background-color: var(--clr-app-bg);
     border-radius: 2rem 0.1rem 2rem 0.1rem;
+    background: transparent;
     background: linear-gradient(to top,#529fc9, #5849a7ae,#4d4343ae, #825959);
     box-shadow:#0a2038;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
